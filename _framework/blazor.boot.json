@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "OrientalSweets",
   "resources": {
-    "hash": "sha256-jQBUwc6qAdz6CzgSa/zvIOfkESQkVfvKwahukl7UODI=",
+    "hash": "sha256-4n5ahRuXXuD16gg5YROBOhPIRQ04v2Pf2oDiVusBxqw=",
     "jsModuleNative": {
       "dotnet.native.8.0.12.5019ia6r61.js": "sha256-B6DNRvFeCUi3jbx9uKpuj+hV9cN0KG4RdZj1FgBZwj8="
     },
@@ -34,7 +34,7 @@
       "Microsoft.JSInterop.wasm": "sha256-UaK2C2DvUm8W0m8fFx3vc9jUX1HKOVp17fHjYaWYKe0=",
       "Microsoft.JSInterop.WebAssembly.wasm": "sha256-sLSiCKh0RQEV/2cl05tr7wOLWzExQfPZovvpqYLJduQ=",
       "MudBlazor.wasm": "sha256-SaJcmqfH+iv3eEKsF3LO/TUaJ8dSzMktBoKu5fvb7K8=",
-      "OrientalSweets.wasm": "sha256-TPXK1jEQjySDOW1y7r4OWC31NAfggtvQBefDI9R43Z8=",
+      "OrientalSweets.wasm": "sha256-TBkzvXSWVrlpmtBXHGL0CMUvk96S0+SP92qxwKt/ksM=",
       "System.Collections.Concurrent.wasm": "sha256-+scPQTsAOtGibchzfBkdWSQndjmvDSM+mFj6UWVyvVU=",
       "System.Collections.Immutable.wasm": "sha256-NpldxIB1npuqMOeZOxHhou88KyKdFm0GciCiRoUQOTY=",
       "System.Collections.wasm": "sha256-aujUStff0m8QM79wMfbaFIW+uepMsBbdENpnol6lTBY=",
